@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from GitHub! My first commit works." << endl;
+    cout << "Hello Jeff from 0995! My first commit works." << endl;
     return 0;
 }
