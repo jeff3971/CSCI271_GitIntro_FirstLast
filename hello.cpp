@@ -1,11 +1,11 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Jeffery Smith
+// Section: 0995
 
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello Jeff from 0995! My first commit works." << endl;
+    cout << "Hello from Github! My first commit works." << endl;
     return 0;
 }
